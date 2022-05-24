@@ -4,7 +4,7 @@ Control de usuarios, proyectos y tareas en MERN
 
 FrontEnd
 
-git clone https://github.com/jsersan/uptask-mern-backend.git npm install Pre-requisitos 📋
+git clone https://github.com/jsersan/uptask-mern-frontend.git npm install Pre-requisitos 📋
 
 Necesitas instalar node.
 
